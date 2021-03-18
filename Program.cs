@@ -7,8 +7,7 @@ namespace A888067.Actividad01
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo!");
-            Console.WriteLine("Presione Enter para salir.");
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
